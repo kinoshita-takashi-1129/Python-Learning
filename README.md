@@ -1,5 +1,5 @@
-# pyhone_study
-Pyhoneを学習するリポジトリ
+# Python_study
+Pythonを学習するリポジトリ
 
 //Git History [Alt * H] で確認
 
